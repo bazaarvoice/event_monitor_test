@@ -1,7 +1,6 @@
 
 from bokeh.plotting import figure, output_file, show
 from FadingStatistics import FadingStatistics
-from bokeh.layouts import gridplot
 
 from data import debug_events
 
