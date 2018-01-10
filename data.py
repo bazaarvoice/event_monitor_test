@@ -1,3 +1,4 @@
+# Representative data that shows various events; extracted from old, historical data for illustration purposes
 debug_events = [
     # 0 nice cyclic_stats data with a spike
     [22,28,7,6,15,13,36,60,169,219,424,429,407,317,330,294,254,250,
